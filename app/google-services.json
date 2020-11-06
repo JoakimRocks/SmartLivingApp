@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "836600699864",
+    "firebase_url": "https://smartliving-94bf0.firebaseio.com",
+    "project_id": "smartliving-94bf0",
+    "storage_bucket": "smartliving-94bf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836600699864:android:c8053592e48fd946",
+        "android_client_info": {
+          "package_name": "com.example.smartliving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836600699864-pjvnabthc4mv88u54pt2ir6b9osvt0o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASurybtBJ-l3_tsVeUd5YRcdTMVgSTU08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
